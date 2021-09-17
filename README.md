@@ -26,6 +26,10 @@ RegisterCommand('car', function(source, args )
  RegisterCommand('spawn', function(source, args )
 ```
 
+# Discord
+[Fierce Modifications](https://discord.gg/gGHPkGkUH3)
+
+[My Discord](https://discord.gg/ykh5Vu47RA)
 
 # Credits
 - [@ReecePlayzYT](https://github.com/ReecePlayzYT) for the script
